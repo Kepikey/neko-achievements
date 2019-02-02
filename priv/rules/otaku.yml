@@ -10,7 +10,7 @@
   metadata:
     title_ru: Эскапизм
     text_ru: Иллюзии захватывают ваш разум.
-    image: /assets/achievements/anime/otaku_1.jpg
+    image: https:/assets/achievements/anime/otaku_1.jpg
     border_color: "#FFDC33"
     topic_id: 227426
 
